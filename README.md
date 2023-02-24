@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Mohammad.balouza@gmail.com**
 
-- ⚡ Fun fact **Sometimes I don't get enough sleep because I'm busy looking stuff up.... help!**
+- ⚡ Fun fact **I have 11 cats that are recharging my soul as I work!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
