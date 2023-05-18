@@ -3,9 +3,9 @@
 <h3 align="center">I'm a Philomath and I've laid my eyes on my new prey, Full Stack Web Development.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmd-bal&label=Profile%20views&color=0e75b6&style=flat" alt="mhmd-bal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamad-balouza&label=Profile%20views&color=0e75b6&style=flat" alt="mohamad-balouza" /> </p>
 
-- 🔭 I’m currently working on **Website clones to get used to HTML and CSS**
+- 🔭 I’m currently working on **learning new frameworks and technologies**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
